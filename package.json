@@ -1,0 +1,6 @@
+{
+  "name": "instagram-api-vercel",
+  "version": "1.0.0",
+  "description": "Instagram profile info API",
+  "main": "api/index.js"
+}
